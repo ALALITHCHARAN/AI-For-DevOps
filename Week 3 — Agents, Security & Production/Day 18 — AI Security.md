@@ -100,7 +100,29 @@ flowchart TD
     class D green
     class E green
 ```
+---
 
+<div align="center">
+
+# 🚀 AI For DevOps — 21-Day Hands-on eBook
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://raw.githubusercontent.com/saghosh8/AI-For-DevOps/main/images/weekly.png" alt="Weekly Breakdown" width="500">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20eBook%20NOW-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC" alt="Buy Now" height="38">
+  </a>
+</p>
+
+<p align="center">🎁 Use code <b><code>FIRST25</code></b> (first 25 buyers only!)</p>
+
+</div>
+
+---
 **DevOps example:** Recall the `GITHUB_TOKEN` used throughout Day 16 and 17 — it was always read via `os.environ["GITHUB_TOKEN"]`, never typed into a prompt string. That's the whole rule: the LLM should never see the literal secret value, because anything in its context can, in principle, end up echoed back in a response, a log, or a debugging trace.
 
 **🧪 Try it yourself**
