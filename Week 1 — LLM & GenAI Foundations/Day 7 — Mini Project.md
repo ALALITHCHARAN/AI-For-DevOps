@@ -19,6 +19,29 @@ It's also the first project where the ideas from Days 1–6 stop being isolated 
 - A chosen **model** (Day 5)
 - A small **application architecture** (Day 6) — memory, a tool, and a guardrail
 
+---
+
+<div align="center">
+
+# 🚀 AI For DevOps — 21-Day Hands-on eBook
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://raw.githubusercontent.com/saghosh8/AI-For-DevOps/main/images/interview.png" alt="Interview Questions and Visuals" width="500">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20eBook%20NOW-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC" alt="Buy Now" height="38">
+  </a>
+</p>
+
+<p align="center">🎁 Use code <b><code>FIRST25</code></b> (first 25 buyers only!)</p>
+
+</div>
+
+---
 ```mermaid
 flowchart LR
     A["DevOps question\n(plain English)"] --> B["System prompt +\nJSON schema"]
