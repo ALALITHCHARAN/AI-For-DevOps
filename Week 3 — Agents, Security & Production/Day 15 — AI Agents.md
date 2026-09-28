@@ -129,6 +129,29 @@ flowchart LR
     class D green
 ```
 
+---
+
+<div align="center">
+
+# 🚀 AI For DevOps — 21-Day Hands-on eBook
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://raw.githubusercontent.com/saghosh8/AI-For-DevOps/main/images/interview.png" alt="Interview Questions and Visuals" width="500">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20eBook%20NOW-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC" alt="Buy Now" height="38">
+  </a>
+</p>
+
+<p align="center">🎁 Use code <b><code>FIRST25</code></b> (first 25 buyers only!)</p>
+
+</div>
+
+---
 **DevOps example:** For the goal *"diagnose why the payments service is returning 500s,"* a good plan front-loads the cheapest, most likely checks first (pod health, recent deploys) before expensive or narrow ones (full log analysis) — the same instinct a senior engineer uses when triaging, rather than randomly checking everything at once.
 
 **🧪 Try it yourself**
