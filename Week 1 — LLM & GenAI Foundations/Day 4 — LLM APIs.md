@@ -104,6 +104,29 @@ flowchart LR
     class D blue
 ```
 
+---
+
+<div align="center">
+
+# 🚀 AI For DevOps — 21-Day Hands-on eBook
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://raw.githubusercontent.com/saghosh8/AI-For-DevOps/main/images/projects.png" alt="3 Real Project Builds" width="500">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20eBook%20NOW-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC" alt="Buy Now" height="38">
+  </a>
+</p>
+
+<p align="center">🎁 Use code <b><code>FIRST25</code></b> (first 25 buyers only!)</p>
+
+</div>
+
+---
 **DevOps example:** A monitoring script sends a request asking the model to explain a Kubernetes event, then reads just the `text` field of the response and drops it into a ticket description — everything else (token counts, IDs) can be ignored or logged for cost tracking.
 
 **🧪 Try it yourself:**
