@@ -176,6 +176,29 @@ flowchart LR
     class E green
 ```
 
+---
+
+<div align="center">
+
+# 🚀 AI For DevOps — 21-Day Hands-on eBook
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://raw.githubusercontent.com/saghosh8/AI-For-DevOps/main/images/AI%20for%20DevOps%20-%20promo.png" alt="AI for DevOps Promo" width="500">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20eBook%20NOW-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC" alt="Buy Now" height="38">
+  </a>
+</p>
+
+<p align="center">🎁 Use code <b><code>FIRST25</code></b> (first 25 buyers only!)</p>
+
+</div>
+
+---
 **DevOps example:** A failed CI run might print 400 lines of test output, dependency install logs, and framework warnings, with the *actual* failure — a single assertion error three screens up — easy to miss on a quick scroll. Having the model isolate and summarize just that root cause turns a multi-minute log dive into a one-line answer.
 
 **🧪 Try it yourself**
