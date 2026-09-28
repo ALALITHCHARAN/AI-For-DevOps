@@ -131,6 +131,29 @@ flowchart LR
     class D green
 ```
 
+---
+
+<div align="center">
+
+# 🚀 AI For DevOps — 21-Day Hands-on eBook
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://raw.githubusercontent.com/saghosh8/AI-For-DevOps/main/images/AI%20for%20DevOps%20-%20promo.png" alt="AI for DevOps Promo" width="500">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://topmate.io/sahana_ghosh/2314836">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20eBook%20NOW-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC" alt="Buy Now" height="38">
+  </a>
+</p>
+
+<p align="center">🎁 Use code <b><code>FIRST25</code></b> (first 25 buyers only!)</p>
+
+</div>
+
+---
 **DevOps example:** A CLI tool that indexes and searches thousands of internal runbooks needs to run that embedding step over and over as docs change — doing it locally with Sentence Transformers avoids per-call API costs and network latency for what's essentially an internal indexing job, reserving your Gemini API calls for the part that actually needs a large model: generating the final answer.
 
 **🧪 Try it yourself**
