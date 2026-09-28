@@ -137,7 +137,7 @@ flowchart TD
 <div align="center">
 
 # 🚀 AI For DevOps — 21-Day Hands-on eBook
-
+### 📘 What’s Inside the eBook — 21 Day Course | Build Projects | 100 Interview QnAs
 <p align="center">
   <a href="https://topmate.io/sahana_ghosh/2314836">
     <img src="https://raw.githubusercontent.com/saghosh8/AI-For-DevOps/main/images/interview.png" alt="Interview Questions and Visuals" width="500">
